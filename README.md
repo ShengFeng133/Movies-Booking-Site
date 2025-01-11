@@ -6,7 +6,7 @@
 <p>To watch how it works, you can click here:
 [Video Link](https://vimeo.com/1045971136) </p> 
 
-<br><br><br>
+<br><br>
 
 ![Homepage 1](https://github.com/user-attachments/assets/817eae3e-91b4-45e9-9f83-7e8dd72033f1)
 ![Homepage 2](https://github.com/user-attachments/assets/76f52de2-fd0f-48b1-b0f1-e9b6c58334b0)
