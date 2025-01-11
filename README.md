@@ -2,7 +2,7 @@
 
 This project aims to develop a movie booking website with a focus on user-friendliness and a streamlined process. Although the project is limited to the use of PHP, HTML, CSS, and JavaScript, without the inclusion of web design frameworks such as Bootstrap, we have worked to ensure that the design remains both aesthetically pleasing and engaging, while the backend handles user authentication, bookings, and data management, ensuring a seamless and efficient user experience.
 
-[!Watch the video]([https://vimeo.com/1045971136](https://vimeo.com/1045971136?share=copy#t=0))
+[Watch the Movies Booking Site video on Vimeo](https://vimeo.com/1045971136)
 
 
 
