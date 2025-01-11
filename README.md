@@ -4,7 +4,7 @@
 
 
 <p>To watch how it works, you can click here:
-[Video Link](https://vimeo.com/1045971136) </p>
+[Video Link](https://vimeo.com/1045971136) </p> <br><br>
 
 
 
